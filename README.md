@@ -2,7 +2,7 @@
 Highcharts XY scatter chart template with CSV data for https://HandsOnDataViz book
 
 ## link to live chart (replace with your own link)
-https://handsondataviz.github.io/highcharts-scatter-csv/index.html
+https://theggray11.github.io/highcharts-scatter-csv/index.html
 
 ## license
 http://www.highcharts.com is free for personal websites, school sites, or non-profit organizations. Commercial use requires the purchase of a license.
